@@ -9,3 +9,4 @@ class Solution:
             i += 2
             n -= 1
         return res
+#that's good
